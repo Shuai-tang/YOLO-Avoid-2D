@@ -2,10 +2,8 @@
   <img src="https://img2.tuhu.org/orgrimmar/2734/TnqZQ37tDu36wMqAL-nICg_w3840_h1140.jpeg" width="640" alt="项目展示" />
 </p>
 
-<h1 align="center">基于Yolov5的四旋翼无人机下视单目视觉避障</h1>
 <h1 align="center">MonoObstacle-Avoidance</h1>
 
-<p align="center"><strong>途虎养车-物流部-实习生-汤帅</strong></p>
 
 [![Python](https://img.shields.io/badge/python-3.10-4B8BBE.svg)](https://docs.python.org/3/whatsnew/3.10.html) [![ROS2](https://img.shields.io/badge/ROS2-Humble-F39C12.svg)](https://docs.ros.org/en/humble/index.html) [![Linux platform](https://img.shields.io/badge/platform-Ubuntu-27AE60.svg)](https://releases.ubuntu.com/22.04/)
 
