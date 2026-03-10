@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img2.tuhu.org/orgrimmar/2734/TnqZQ37tDu36wMqAL-nICg_w3840_h1140.jpeg" width="640" alt="项目展示" />
-</p>
-
 <h1 align="center">MonoObstacle-Avoidance</h1>
 
 
