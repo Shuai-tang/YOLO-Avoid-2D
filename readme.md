@@ -6,6 +6,9 @@
 ## 项目介绍
 无人机在末端物流抛投时避障程序，搭载下视广角单目相机，仅基于yolo模型推理输出。在空中避开地面障碍物，最终在抛投点搜索安全区域并顺利降落。
 
+### 演示视频
+<video src="demo.mp4" controls width="100%"></video>
+
 ## 启动
 请严格遵守以下软件版本：
 
@@ -44,9 +47,6 @@ python /path/to/tuhu_tangsh_ws/src/navigation_node.py
 ```
 ros2 run rqt_image_view rqt_image_view
 ```
-
-以下是参考效果视频
-[📹 PX4+ROS2+Gazebo避障展示](参考效果.mp4)
 
 ## 工作空间介绍
 **I. 文件夹简介**
