@@ -7,7 +7,7 @@
 无人机在末端物流抛投时避障程序，搭载下视广角单目相机，仅基于yolo模型推理输出。在空中避开地面障碍物，最终在抛投点搜索安全区域并顺利降落。
 
 ### 演示视频
-<video src="demo.mp4" controls width="100%"></video>
+▶ **[点击观看演示视频](https://github.com/Shuai-tang/MonoObstacle-Avoidance/blob/main/demo.mp4)**（打开后可在页面内直接播放）
 
 ## 启动
 请严格遵守以下软件版本：
