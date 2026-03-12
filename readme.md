@@ -21,7 +21,7 @@
 
 | 传统 A* | 改进 A* | 轨迹平滑 |
 | :---: | :---: | :---: |
-| <img src="media/传统Astar.png" width="280"/> | <img src="media/改进Astar.png" width="280"/> | <img src="media/平滑轨迹.png" width="280"/> |
+| <img src="media/传统Astar.png" width="280"/> | <img src="media/改进astar.png" width="280"/> | <img src="media/平滑轨迹.png" width="280"/> |
 | <img src="media/传统astar_2.png" width="280"/> | <img src="media/改进astar_2.png" width="280"/> | <img src="media/平滑轨迹_2.png" width="280"/> |
 
 </div>
