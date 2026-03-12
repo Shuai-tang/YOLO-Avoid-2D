@@ -1,14 +1,14 @@
-<h1 align="center">MonoObstacle-Avoidance</h1>
+<h1 align="center">YOLO-Avoid-2D</h1>
 
 
-[![Python](https://img.shields.io/badge/python-3.10-4B8BBE.svg)](https://docs.python.org/3/whatsnew/3.10.html) [![ROS2](https://img.shields.io/badge/ROS2-Humble-F39C12.svg)](https://docs.ros.org/en/humble/index.html) [![Linux platform](https://img.shields.io/badge/platform-Ubuntu-27AE60.svg)](https://releases.ubuntu.com/22.04/)
+[![Python](https://img.shields.io/badge/python-3.10-4B8BBE.svg)](https://docs.python.org/3/whatsnew/3.10.html) [![ROS2](https://img.shields.io/badge/ROS2-Humble-F39C12.svg)](https://docs.ros.org/en/humble/index.html) [![Linux platform](https://img.shields.io/badge/platform-Ubuntu-27AE60.svg)](https://releases.ubuntu.com/22.04/) [![YOLOv5](https://img.shields.io/badge/YOLOv5-detection-00D9FF.svg)](https://github.com/ultralytics/yolov5) [![PX4](https://img.shields.io/badge/PX4-Autopilot-004D7A.svg)](https://docs.px4.io/main/zh/) [![Gazebo](https://img.shields.io/badge/Gazebo-Sim%208-2C3E50.svg)](https://gazebosim.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C.svg)](https://pytorch.org/) [![MAVROS](https://img.shields.io/badge/MAVROS-ROS2-1ABC9C.svg)](https://github.com/mavlink/mavros)
 
 ## 项目介绍
 无人机在末端物流抛投时避障程序，搭载下视广角单目相机，仅基于yolo模型推理输出。在空中避开地面障碍物，最终在抛投点搜索安全区域并顺利降落。
 
 ## 效果展示
 
-| 图1 | 图2 | 图3 |
+| 图1 Gazebo-Sim8仿真 | 图2 rqt_image_view可视化| 图3 栅格地图规划可视化|
 |:---:|:---:|:---:|
 | ![效果图1](media/image_1.png) | ![效果图2](media/image_2.png) | ![效果图3](media/image_3.png) |
 
