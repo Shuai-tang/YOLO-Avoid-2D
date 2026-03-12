@@ -16,6 +16,17 @@
 | :-----------------: | :----------------------: | :--------------------: |
 | <img src="media/image_1.png" width="400"/> | <img src="media/image_2.png" width="400"/> | <img src="media/image_3.png" width="400"/> |
 
+
+<div align="center">
+
+| 传统 A* | 改进 A* | 轨迹平滑 |
+| :---: | :---: | :---: |
+| <img src="media/传统Astar.png" width="280"/> | <img src="media/改进Astar.png" width="280"/> | <img src="media/平滑轨迹.png" width="280"/> |
+| <img src="media/传统astar_2.png" width="280"/> | <img src="media/改进astar_2.png" width="280"/> | <img src="media/平滑轨迹_2.png" width="280"/> |
+
+</div>
+
+
 **以下是参考效果视频**  
 > 📹 **[仿真避障展示](参考效果.mp4)**
 
