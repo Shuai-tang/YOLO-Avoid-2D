@@ -52,7 +52,8 @@ ros2 run rqt_image_view rqt_image_view
 ```
 
 以下是参考效果视频
-[📹 PX4+ROS2+Gazebo避障展示](参考效果.mp4)
+
+<video src="参考效果.mp4" controls width="720">您的浏览器不支持视频播放，可点击下载：[📹 PX4+ROS2+Gazebo避障展示](参考效果.mp4)</video>
 
 ## 工作空间介绍
 **I. 文件夹简介**
@@ -78,3 +79,5 @@ ros2 run rqt_image_view rqt_image_view
     LANDING = 4      # 降落阶段
     LANDED = 5       # 降落完成阶段
 ```
+
+注：本项目仅展示工作内容，代码为演示版并不涉及真实代码。
