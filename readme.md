@@ -6,8 +6,11 @@
 ## 项目介绍
 无人机在末端物流抛投时避障程序，搭载下视广角单目相机，仅基于yolo模型推理输出。在空中避开地面障碍物，最终在抛投点搜索安全区域并顺利降落。
 
-### 演示视频
-▶ **[点击观看演示视频](https://github.com/Shuai-tang/MonoObstacle-Avoidance/blob/main/demo.mp4)**（打开后可在页面内直接播放）
+## 效果展示
+
+| 图1 | 图2 | 图3 |
+|:---:|:---:|:---:|
+| ![效果图1](media/image_1.png) | ![效果图2](media/image_2.png) | ![效果图3](media/image_3.png) |
 
 ## 启动
 请严格遵守以下软件版本：
@@ -47,6 +50,9 @@ python /path/to/tuhu_tangsh_ws/src/navigation_node.py
 ```
 ros2 run rqt_image_view rqt_image_view
 ```
+
+以下是参考效果视频
+[📹 PX4+ROS2+Gazebo避障展示](参考效果.mp4)
 
 ## 工作空间介绍
 **I. 文件夹简介**
